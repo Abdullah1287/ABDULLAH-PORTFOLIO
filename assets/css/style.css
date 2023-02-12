@@ -316,11 +316,8 @@ a{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: rgb(2, 35, 78);
-  color: rgb(216, 216, 216);
-  text-decoration: none;
-  border-radius: 05px;
-border-color: #ffffff;
+color: #000000;
+
 
 }
 
@@ -338,7 +335,7 @@ font-weight: bold;
 
 }
 a.active{
-  text-align: ;
+  active
 }
 .baton-al{
   margin-bottom: 04vw;
@@ -348,4 +345,18 @@ a.active{
 }
 .credits{
   opacity: 100%;
+}
+.active{
+  text-shadow:
+      
+  0 0 10px rgb(48, 58, 199),
+  0 0 21px rgb(67, 78, 224),
+  
+  0 0 82px#7a1c97,
+  
+  
+  0 0 151px#7c1c97;
+}
+#fas fa-poll-h{
+  fas fa-poll-h
 }
